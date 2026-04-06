@@ -1,0 +1,5 @@
+{
+  "name": "Vishwaas: Regional Misinformation Detector",
+  "description": "An AI-powered tool to detect and analyze misinformation in regional Indian languages from social media text.",
+  "requestFramePermissions": []
+}
